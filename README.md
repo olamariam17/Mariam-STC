@@ -51,5 +51,7 @@ Telecom Customer Churn Analysis: Analyzed 7,000+ customer records to identify ch
 
 # Contact Information
 Email: oyinkansolamariam17@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/mariamolatunji
+
 Location: Lagos, Nigeria
